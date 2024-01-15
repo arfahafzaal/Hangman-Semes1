@@ -20,7 +20,7 @@ void easymode(const string&);
 void mediummode(const string&);
 void hardmode(const string&);
 void playCorrectSound() {
-    Beep(1000, 500);  // Example: Beep at 1000 Hz for 530 milliseconds
+    Beep(1000, 500);  // Example: Beep at 1000 Hz for 500 milliseconds
 }
 
 void playIncorrectSound() {
